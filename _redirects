@@ -1,2 +1,2 @@
 # Redirect default Netlify subdomain to primary domain
-http://mighil.netlify.com/* https://deadauthor.org/:splat 301!
+https://affectionate-davinci-ac980c.netlify.com/* https://deadauthor.org/:splat 301!
