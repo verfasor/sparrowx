@@ -36,7 +36,7 @@ analytics:
 # Reading Files
 include:
   - _pages
-  - _redirects
+  - "_redirects"
 # Files excluded from Jekyll builds
 exclude:
 - README.md
