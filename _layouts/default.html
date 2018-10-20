@@ -23,18 +23,6 @@
     <!--  <link href="https://fonts.googleapis.com/css?family=Gochi+Hand|Heebo:100,300,400,500,700,800,900" rel="stylesheet">  -->
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | absolute_url }}">
     <link rel="shortcut icon" type="image/x-icon" href="{{ site.favicon | absolute_url }}">
-    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-    <script>
-  if (window.netlifyIdentity) {
-    window.netlifyIdentity.on("init", user => {
-      if (!user) {
-        window.netlifyIdentity.on("login", () => {
-          document.location.href = "/admin/";
-        });
-      }
-    });
-  }
-</script>
     <meta http-equiv="cleartype" content="on">
     {% if site.tags != "" %}
   {% include collecttags.html %}
