@@ -6,6 +6,7 @@ author: Mighil
 type: post
 date: 2016-12-08T05:42:38+00:00
 updated: 2018-10-16T07:45:22+00:00
+headerimage: shadowsocks-china-digitalocean.png
 sitemap:
   lastmod: 2018-10-16T07:45:22+00:00
 url: /how-to-setup-shadowsocks-server-on-digitalocean-vps/
