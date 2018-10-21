@@ -13,9 +13,6 @@ sitemap:
 tags:
   - chengdu-living  
 ---
-
-## Expat Life in Chengdu
-
 <figure style="width: auto">
 <img src="https://i1.wp.com/www.justcharlie.com/wp-content/uploads/2015/04/Morning-Bar.jpg" alt="Chengdu Living 2018">
 <figcaption class="wp-caption-text">Photo by justcharlie.com</figcaption></figure> 
