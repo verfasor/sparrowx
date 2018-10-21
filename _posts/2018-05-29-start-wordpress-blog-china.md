@@ -28,28 +28,27 @@ CloudWays Singapore servers are performing well in mainland China. Here's <a hre
 
 ## Table of Contents	
 
-<ul class="ez-toc-list">
-    <li><a href="#why-a-self-hosted-wordpress-blog-in-china" title="Why A Self-hosted WordPress Blog in China?">Why A Self-hosted WordPress Blog in China?</a></li>
-    <li><a href="#if-this-guide-sounds-too-much-of-a-tech-jargon" title="If this guide sounds too much of a tech jargon:">If this guide sounds too much of a tech jargon:</a></li>
-    <li><a href="#prerequisites" title="Prerequisites:">Prerequisites:</a><ul>
-        <li><a href="#a-vpn" title="a. VPN">a. VPN</a></li>
-        <li><a href="#b-domain-name" title="b. Domain name">b. Domain name</a></li>
-        <li><a href="#c-a-virtual-private-server-vps-to-host-your-website" title="c. A Virtual Private Server (VPS) to host your website.">c. A Virtual Private Server (VPS) to host your website.</a></li>
-        <li><a href="#d-putty-or-terminal-and-winscp-or-cyberduck" title="d. Putty or Terminal and WinSCP or Cyberduck">d. Putty or Terminal and WinSCP or Cyberduck</a></li>
-        <li><a href="#e-others" title="e. Others">e. Others</a></li></ul>
-    </li><li><a href="#a-buy-a-domain" title="A. Buy A Domain">A. Buy A Domain</a></li>
-    <li><a href="#b-add-site-to-cloudflare" title="B. Add Site to Cloudflare">B. Add Site to Cloudflare</a></li>
-    <li><a href="#c-create-a-digitalocean-droplet" title="C. Create A DigitalOcean Droplet">C. Create A DigitalOcean Droplet</a><ul>
-        <li><a href="#note" title="Note:">Note:</a></li></ul></li>
-    <li><a href="#d-install-vestacp-on-centos" title="D. Install VestaCP On CentOS">D. Install VestaCP On CentOS</a><ul>
-    <li><a href="#step-1-login-to-your-server-as-root" title="Step 1: Login to your server as root">Step 1: Login to your server as root</a></li>
-        <li><a href="#step2-install-vesta-cp" title="Step2:&nbsp; Install Vesta CP">Step2:&nbsp; Install Vesta CP</a></li></ul></li>
-    <li><a href="#e-configure-dns" title="E. Configure DNS">E. Configure DNS</a></li>
-    <li><a href="#f-add-new-website-on-vestacp" title="F. Add New Website on VestaCP">F. Add New Website on VestaCP</a><ul>
-        <li><a href="#step-1-visit-the-vestacp-login-url" title="Step 1: Visit the VestaCP login URL.">Step 1: Visit the VestaCP login URL.</a></li>
-        <li><a href="#step-2-add-a-website" title="Step 2: Add a website">Step 2: Add a website</a></li>
-        <li><a href="#step-3-create-a-database-for-wordpress" title="Step 3: Create a Database for WordPress">Step 3: Create a Database for WordPress</a></li></ul>
-    </li><li><a href="#g-download-and-install-wordpress" title="G. Download And Install WordPress">G. Download And Install WordPress</a></li></ul>
+* [Why A Self-hosted WordPress Blog in China?](#why-a-self-hosted-wordpress-blog-in-china)
+* [If this guide sounds too much of a tech jargon:](#if-this-guide-sounds-too-much-of-a-tech-jargon)
+* [Prerequisites:](#prerequisites)
+* [a. VPN](#a-vpn)
+* b. Domain name
+* c. A Virtual Private Server (VPS) to host your website.
+* d. Putty or Terminal and WinSCP or Cyberduck
+* e. Others
+* A. Buy A Domain
+* B. Add Site to Cloudflare
+* C. Create A DigitalOcean Droplet
+* Note:
+* D. Install VestaCP On CentOS
+* Step 1: Login to your server as root
+* Step2:  Install Vesta CP
+* E. Configure DNS
+* F. Add New Website on VestaCP
+* Step 1: Visit the VestaCP login URL.
+* Step 2: Add a website
+* Step 3: Create a Database for WordPress
+* G. Download And Install WordPress
 
 <h2 id="#why-a-self-hosted-wordpress-blog-in-china">Why A Self-hosted Wordpress Blog in China?</h2>
 
