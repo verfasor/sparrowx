@@ -9,7 +9,7 @@ feature-img: "/images/start-wordpress-blog-china.png"
 updated: 2018-05-28T16:52:36+00:00
 sitemap:
   lastmod: 2018-10-15T11:59:57+00:00
-tags: website wordpress
+tags: website china-blogger
 url: /start-wordpress-blog-china/
 ---
 A lot of expats in China prefer to share their adventure in China with their friends back at home. Legends say starting a <a href="https://www.quora.com/Is-WordPress-blocked-in-China/answer/Mighil">WordPress blog in China can be painstaking</a>. That's bullshit. All you need is a VPN service to get started.
