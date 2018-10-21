@@ -50,17 +50,17 @@
 
   <meta name="twitter:card" content="summary">
   {% if page.og_image %}
-    <meta name="twitter:image" content="{{ page.headerimage | absolute_url }}">
+    <meta name="twitter:image" content="{{ page.headerimage | append: page.headerimage }}">
   {% elsif site.og_image %}
-    <meta name="twitter:image" content="{{ site.og_image | absolute_url }}">
+    <meta name="twitter:image" content="{{ site.og_image | append: site.og_image }}">
   {% endif %}
   <meta name="twitter:creator" content="@{{ site.twitter.username }}">
 {% endif %}
 
 {% if page.og_image %}
-  <meta property="og:image" content="{{ page.headerimage | absolute_url }}">
+  <meta property="og:image" content="{{ page.headerimage | append: page.headerimage }}">
 {% elsif site.og_image %}
-  <meta property="og:image" content="{{ site.og_image | absolute_url }}">
+  <meta property="og:image" content="{{ site.og_image | append: site.og_image }}">
 {% endif %}
 
 {% if page.date %}
