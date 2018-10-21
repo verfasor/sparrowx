@@ -5,7 +5,7 @@ seotitle: How to Start a WordPress Blog in China (Updated 2018)
 author: Mighil
 description: Here's an ultimate step-by-step guide on how to start a WordPress blog in China. This beginner-friendly tutorial will be straight to the point.
 headerimage: start-wordpress-blog-china.png
-feature-img: "start-wordpress-blog-china.png"
+feature-img: "/start-wordpress-blog-china.png"
 updated: 2018-05-28T16:52:36+00:00
 sitemap:
   lastmod: 2018-10-15T11:59:57+00:00
