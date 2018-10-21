@@ -1,10 +1,13 @@
 ---
 seotitle: How to Setup A Shadowsocks Server on DigitalOcean VPS - Mighil
-title: How to Setup A Shadowsocks Server on DigitalOcean VPS
+title: Setup Shadowsocks Server on DigitalOcean VPS
 description: Learn how to install Shadowsocks server on DigitalOcean Ubuntu droplet easily. Write to mighil[at]mighil.com or connect with me on WeChat if you want me set it up for you for a small fee.
 author: Mighil
 type: post
 date: 2016-12-08T05:42:38+00:00
+updated: 2018-10-16T07:45:22+00:00
+sitemap:
+  lastmod: 2018-10-16T07:45:22+00:00
 url: /how-to-setup-shadowsocks-server-on-digitalocean-vps/
 featured_image: /wp-content/uploads/2018/05/shadowsocks-china-digitalocean.png
 tags:
