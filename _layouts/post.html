@@ -25,7 +25,9 @@ layout: default
   {% endfor %}
 ]</span>
       </header>
-      
+      {% if page.feature-img %}
+    <img class="feature-image" src={{ page.feature-img }} alt="Featured Image"/>
+  {% endif %}
       <section class="post__content" itemprop="text">
         {{ content }}
         
