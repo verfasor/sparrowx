@@ -1,6 +1,6 @@
 ---
 seotitle: Expat Life in Chengdu - Living in Chengdu City - Chengdu Living 2018
-title: Expat Life in Chengdu (Updated On October 2018)
+title: Expat Life in Chengdu 
 description: What is living in Chengdu like? How's the expat life in Chengdu? Moving to Chengdu, now what? Here's the answer you need. Easy tips on how to embrace the Chengdu living in 2018.
 author: Mighil
 type: post
