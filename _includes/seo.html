@@ -60,7 +60,7 @@
 {% if page.og_image %}
   <meta property="og:image" content="{{ page.headerimage | absolute_url }}">
 {% elsif site.og_image %}
-  <meta property="og:image" content="{% if site.og_image contains "://" %}{{ site.og_image }}{% else %}{{ site.og_image | absolute_url }}{% endif %}">
+  <meta property="og:image" content="{{ site.og_image | absolute_url }}">
 {% endif %}
 
 {% if page.date %}
