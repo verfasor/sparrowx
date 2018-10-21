@@ -27,25 +27,27 @@ CloudWays Singapore servers are performing well in mainland China. Here's <a hre
 ## Table of Contents
 
 <ul>
-<li><a href="#why-a-self-hosted-wordpress-blog-in-china">Why WordPress</a></li>
-<li><a href="#custom-solution">Custom Solution</a></li>
-<li><a href="#what-is-the-realistic-cost-of-living-in-chengdu-including-rent">What is the realistic cost of living in Chengdu, including rent?</a></li>
-<li><a href="#what-is-the-best-and-easiest-way-to-find-a-house-for-rent-in-chengdu-for-a-foreigner">What is the best and easiest way to find a house for rent in Chengdu for a foreigner?</a></li>
-<li><a href="#best-practices">Best Practices for finding an apartment in Chengdu</a></li>
-<li><a href="#what-is-the-weather-in-chengdu-like">What is the weather in Chengdu like?</a></li>
-<li><a href="#how-is-the-pollution-in-chengdu">How is the Pollution in Chengdu?</a></li>
-<li><a href="#what-is-the-food-in-chengdu-like">What is the food in Chengdu like?</a></li>
-<li><a href="#what-is-the-music-scene-like-in-chengdu">What is the music scene like in Chengdu?</a></li>
-<li><a href="#how-to-open-a-bank-account-in-chengdu">How to open a bank account in Chengdu?</a></li>
-<li><a href="#buying-a-sim-card-in-chengdu">Buying a SIM card in Chengdu</a></li>
-<li><a href="#how-about-the-traffic-in-chengdu">How about the traffic in Chengdu?</a></li>
-<li><a href="#how-about-railway-stations-in-chengdu">How about Railway Stations in Chengdu?</a></li>
-<li><a href="#which-vpn-should-i-use-in-chengdu">Which VPN should I use in Chengdu?</a></li>
-<li><a href="#do-this-before-moving-to-chengdu">Do this before moving to Chengdu</a></li>
-<li><a href="#do-you-have-more-questions">Do you have more questions?</a></li>
-<li><a href="#useful-links">Useful Links</a></li>
-<li><a href="#credits">Credits</a></li>
-</ul>
+    <li><a href="#why-a-self-hosted-wordpress-blog-in-china" title="Why WordPress Blog in China?">Why WordPress</a></li>
+    <li><a href="#custom-solution" title="If this guide sounds too much of a tech jargon">Custom Solution</a></li>
+    <li><a href="#prerequisites" title="Prerequisites:">Prerequisites:</a><ul>
+        <li><a href="#a-vpn" title="a. VPN">a. VPN</a></li>
+        <li><a href="#b-domain-name" title="b. Domain name">b. Domain name</a></li>
+        <li><a href="#c-a-virtual-private-server-vps-to-host-your-website" title="c. A Virtual Private Server (VPS) to host your website.">c. A Virtual Private Server (VPS) to host your website.</a></li>
+        <li><a href="#d-putty-or-terminal-and-winscp-or-cyberduck" title="d. Putty or Terminal and WinSCP or Cyberduck">d. Putty or Terminal and WinSCP or Cyberduck</a></li>
+        <li><a href="#e-others" title="e. Others">e. Others</a></li></ul>
+    </li><li><a href="#a-buy-a-domain" title="A. Buy A Domain">A. Buy A Domain</a></li>
+    <li><a href="#b-add-site-to-cloudflare" title="B. Add Site to Cloudflare">B. Add Site to Cloudflare</a></li>
+    <li><a href="#c-create-a-digitalocean-droplet" title="C. Create A DigitalOcean Droplet">C. Create A DigitalOcean Droplet</a><ul>
+        <li><a href="#note" title="Note:">Note:</a></li></ul></li>
+    <li><a href="#d-install-vestacp-on-centos" title="D. Install VestaCP On CentOS">D. Install VestaCP On CentOS</a><ul>
+    <li><a href="#step-1-login-to-your-server-as-root" title="Step 1: Login to your server as root">Step 1: Login to your server as root</a></li>
+        <li><a href="#step2-install-vesta-cp" title="Step2:&nbsp; Install Vesta CP">Step2:&nbsp; Install Vesta CP</a></li></ul></li>
+    <li><a href="#e-configure-dns" title="E. Configure DNS">E. Configure DNS</a></li>
+    <li><a href="#f-add-new-website-on-vestacp" title="F. Add New Website on VestaCP">F. Add New Website on VestaCP</a><ul>
+        <li><a href="#step-1-visit-the-vestacp-login-url" title="Step 1: Visit the VestaCP login URL.">Step 1: Visit the VestaCP login URL.</a></li>
+        <li><a href="#step-2-add-a-website" title="Step 2: Add a website">Step 2: Add a website</a></li>
+        <li><a href="#step-3-create-a-database-for-wordpress" title="Step 3: Create a Database for WordPress">Step 3: Create a Database for WordPress</a></li></ul>
+    </li><li><a href="#g-download-and-install-wordpress" title="G. Download And Install WordPress">G. Download And Install WordPress</a></li></ul>
 
 <h2 id="why-a-self-hosted-wordpress-blog-in-china">Why Self-hosted WordPress Blog in China?</h2>
 Dedicated hosting can be pricey since they come with one-click tools. A lot of blogging platforms doesn't work well in China as well.
