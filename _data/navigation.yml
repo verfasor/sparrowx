@@ -1,12 +1,10 @@
 # main links
 main:
-  - title: "Home"
-    url: /
-  - title: "About"
+  - title: "About •"
     url: /about
-  - title: "Hire"
+  - title: "Hire •"
     url: /inbound-marketing-agency-india
-  - title: "Blog"
+  - title: "Blog •"
     url: /blog    
   - title: "Sitemap"
     url: /sitemap.xml
