@@ -5,13 +5,15 @@ seotitle: How to Start a WordPress Blog in China (Updated 2018)
 author: Mighil
 description: Here's an ultimate step-by-step guide on how to start a WordPress blog in China. This beginner-friendly tutorial will be straight to the point.
 headerimage: start-wordpress-blog-china.png
-feature-img: "/images/start-wordpress-blog-china.png"
 updated: 2018-05-28T16:52:36+00:00
 sitemap:
   lastmod: 2018-10-15T11:59:57+00:00
 tags: website china-blogger
 url: /start-wordpress-blog-china/
 ---
+<img align="center" src="/images/start-wordpress-blog-china.png" alt="How to Start a WordPress Blog in China" width="auto" />
+
+
 A lot of expats in China prefer to share their adventure in China with their friends back at home. Legends say starting a <a href="https://www.quora.com/Is-WordPress-blocked-in-China/answer/Mighil">WordPress blog in China can be painstaking</a>. That's bullshit. All you need is a VPN service to get started.
 
 
@@ -24,9 +26,32 @@ CloudWays Singapore servers are performing well in mainland China. Here's <a hre
 
 <p style="text-align: center;"><a class="button-dark" href="https://mighil.com/go/cloudways">Get Started for FREE (You Can Run Multiple WordPress Also)</a></p>
 
+## Table of Contents	
 
+<ul class="ez-toc-list">
+    <li><a href="#why-a-self-hosted-wordpress-blog-in-china" title="Why A Self-hosted WordPress Blog in China?">Why A Self-hosted WordPress Blog in China?</a></li>
+    <li><a href="#if-this-guide-sounds-too-much-of-a-tech-jargon" title="If this guide sounds too much of a tech jargon:">If this guide sounds too much of a tech jargon:</a></li>
+    <li><a href="#prerequisites" title="Prerequisites:">Prerequisites:</a><ul>
+        <li><a href="#a-vpn" title="a. VPN">a. VPN</a></li>
+        <li><a href="#b-domain-name" title="b. Domain name">b. Domain name</a></li>
+        <li><a href="#c-a-virtual-private-server-vps-to-host-your-website" title="c. A Virtual Private Server (VPS) to host your website.">c. A Virtual Private Server (VPS) to host your website.</a></li>
+        <li><a href="#d-putty-or-terminal-and-winscp-or-cyberduck" title="d. Putty or Terminal and WinSCP or Cyberduck">d. Putty or Terminal and WinSCP or Cyberduck</a></li>
+        <li><a href="#e-others" title="e. Others">e. Others</a></li></ul>
+    </li><li><a href="#a-buy-a-domain" title="A. Buy A Domain">A. Buy A Domain</a></li>
+    <li><a href="#b-add-site-to-cloudflare" title="B. Add Site to Cloudflare">B. Add Site to Cloudflare</a></li>
+    <li><a href="#c-create-a-digitalocean-droplet" title="C. Create A DigitalOcean Droplet">C. Create A DigitalOcean Droplet</a><ul>
+        <li><a href="#note" title="Note:">Note:</a></li></ul></li>
+    <li><a href="#d-install-vestacp-on-centos" title="D. Install VestaCP On CentOS">D. Install VestaCP On CentOS</a><ul>
+    <li><a href="#step-1-login-to-your-server-as-root" title="Step 1: Login to your server as root">Step 1: Login to your server as root</a></li>
+        <li><a href="#step2-install-vesta-cp" title="Step2:&nbsp; Install Vesta CP">Step2:&nbsp; Install Vesta CP</a></li></ul></li>
+    <li><a href="#e-configure-dns" title="E. Configure DNS">E. Configure DNS</a></li>
+    <li><a href="#f-add-new-website-on-vestacp" title="F. Add New Website on VestaCP">F. Add New Website on VestaCP</a><ul>
+        <li><a href="#step-1-visit-the-vestacp-login-url" title="Step 1: Visit the VestaCP login URL.">Step 1: Visit the VestaCP login URL.</a></li>
+        <li><a href="#step-2-add-a-website" title="Step 2: Add a website">Step 2: Add a website</a></li>
+        <li><a href="#step-3-create-a-database-for-wordpress" title="Step 3: Create a Database for WordPress">Step 3: Create a Database for WordPress</a></li></ul>
+    </li><li><a href="#g-download-and-install-wordpress" title="G. Download And Install WordPress">G. Download And Install WordPress</a></li></ul>
 
-<h2>Why A Self-hosted Wordpress Blog in China?</h2>
+<h2 id="#why-a-self-hosted-wordpress-blog-in-china">Why A Self-hosted Wordpress Blog in China?</h2>
 
 Dedicated hosting can be pricey since they come with one-click tools. A lot of blogging platforms doesn't work well in China as well.
 
@@ -38,17 +63,17 @@ So, it's wise to host your own WordPress blog. I've prepared this ultimate guide
 
 <strong>Note:</strong> This post contains 2 affiliate links and a referral link. Which means I will earn a small commission when you purchase using my links. No extra cost to you.
 
-<h2><b>I</b>f this guide sounds too much of a tech jargon:</h2>
+<h2 id="#if-this-guide-sounds-too-much-of-a-tech-jargon"><b>I</b>f this guide sounds too much of a tech jargon:</h2>
 
 Sit back and relax, I can personally help you start a WordPress blog in China for the price of a coffee.
 
-<h2>Prerequisites:</h2>
+<h2 id="#prerequisites">Prerequisites:</h2>
 
-<h3>a. VPN</h3>
+<h3 id="#a-vpn">a. VPN</h3>
 
 A VPN is essential. A lot of websites I'm going to mention below doesn't work well in China. Feel free to use my <a href="https://www.linkev.com/?a_aid=mighil">affiliate link</a> in the sidebar to sign-up with Express VPN. Their service is pretty good in China.
 
-<h3>b. Domain name</h3>
+<h3 id="#b-domain-name">b. Domain name</h3>
 
 A domain name is an identification string that defines a realm of administrative autonomy, authority or control within the Internet. You know the drill; go ahead and buy a domain name that reflects your brand name.
 
