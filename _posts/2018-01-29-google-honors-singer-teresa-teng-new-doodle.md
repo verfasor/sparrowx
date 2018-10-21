@@ -1,6 +1,6 @@
 ---
 type: post
-title: Google Honors Singer Teresa Teng with New Doodle
+title: Google Honors Teresa Teng 
 seotitle: Google Honors Singer Teresa Teng with New Doodle
 author: Mighil
 description: Today’s Doodle pays tribute to one of Teresa Teng’s most well-known songs, "The Moon Represents My Heart." Doodle by Cynthia Yuan Cheng.
