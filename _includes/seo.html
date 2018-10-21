@@ -50,18 +50,18 @@
 
   <meta name="twitter:card" content="summary">
   {% if page.og_image %}
-    <meta name="twitter:image" content="{{ page.headerimage | append: page.headerimage }}">
+    <meta name="twitter:image" content="https://mighil.com/wp-content/uploads/{{ page.headerimage }}">
   {% elsif site.og_image %}
-    <meta name="twitter:image" content="{{ site.og_image }}">
+    <meta name="twitter:image" content="{{ site.og_image | absolute_url }}">
   {% endif %}
   <meta name="twitter:creator" content="@{{ site.twitter.username }}">
 {% endif %}
 
 {% if page.headerimage %}
-  <meta property="og:image" content="/wp-content/uploads/{{ page.headerimage }}">
+  <meta property="og:image" content="https://mighil.com/wp-content/uploads/{{ page.headerimage }}">
   <meta property="og:image:alt" content="{{ page.seotitle }}" />
 {% else %}
-  <meta content="/assets/images/mighil.png" property="og:image">
+  <meta property="og:image" content="{% if site.og_image contains "://" %}{{ site.og_image }}{% else %}{{ site.og_image | absolute_url }}{% endif %}">
 {% endif %}
 
 {% if page.date %}
