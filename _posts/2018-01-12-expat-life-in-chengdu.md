@@ -8,8 +8,10 @@ date: 2018-01-12T10:38:06+00:00
 updated: 2018-10-16T07:45:22+00:00
 url: /expat-life-in-chengdu/
 headerimage: contact-mighil.jpg
+sitemap:
+  lastmod: 2018-10-16T07:45:22+00:00
 tags:
-  - chengdu-living
+  - chengdu-living  
 ---
 
 ## Expat Life in Chengdu
