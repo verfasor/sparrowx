@@ -22,7 +22,6 @@ collections:
       - {label: "OG Image", name: "headerimage", widget: "string", required: false}
       - {label: "Featured Image", name: "feature-img", widget: "string", required: false}
       - {label: "Updated Date", name: "updated", widget: "string", required: false}
-      - {label: "Sitemap Date", name: "sitemap.lastmod", widget: "string", required: false}
       - {label: "Body", name: "body", widget: "markdown", required: false}
       - {label: "Tags", name: "tags", widget: "string"}
       - {label: "URL", name: "url", widget: "string"}
