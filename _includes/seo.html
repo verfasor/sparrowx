@@ -57,6 +57,8 @@
   <meta name="twitter:creator" content="@{{ site.twitter.username }}">
 {% endif %}
 
+  <meta property="og:updated_time" content="{{ page.updated }}">
+
 {% if page.headerimage %}
   <meta property="og:image" content="https://mighil.com/wp-content/uploads/{{ page.headerimage }}">
   <meta property="og:image:alt" content="{{ page.seotitle }}" />
