@@ -13,9 +13,6 @@ featured_image: /wp-content/uploads/2018/05/shadowsocks-china-digitalocean.png
 tags:
   - shadowsocks
 ---
-
-## Setup A Shadowsocks Server on DigitalOcean
-
 <figure style="width: auto">
 <img src="https://mighil.com/wp-content/uploads/2018/05/shadowsocks-china-digitalocean.png" alt="How to Setup Shadowsocks Server on DigitalOcean VPS">
 </figure> 
