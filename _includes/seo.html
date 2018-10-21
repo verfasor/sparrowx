@@ -49,7 +49,7 @@
   <meta name="twitter:url" content="{{ canonical_url }}">
 
   <meta name="twitter:card" content="summary">
-  {% if page.og_image %}
+  {% if page.headerimage %}
     <meta name="twitter:image" content="https://mighil.com/wp-content/uploads/{{ page.headerimage }}">
   {% else %}
     <meta property="twitter:image" content="{% if site.og_image contains "://" %}{{ site.og_image }}{% else %}{{ site.og_image | absolute_url }}{% endif %}">
