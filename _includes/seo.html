@@ -58,9 +58,9 @@
 {% endif %}
 
 {% if page.og_image %}
-  <meta property="og:image" content="{{ page.headerimage | append: page.headerimage }}">
+  <meta property="og:image" content="{{ page.headerimage }}">
 {% elsif site.og_image %}
-  <meta property="og:image" content="{{ site.og_image | append: site.og_image }}">
+  <meta property="og:image" content="{{ site.og_image }}">
 {% endif %}
 
 {% if page.date %}
