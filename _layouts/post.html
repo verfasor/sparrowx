@@ -18,6 +18,11 @@ layout: default
         {% if page.date %}
         <p class="post__meta"> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }} </time></p>
         {% endif %}
+        
+        {% if page.feature-img %}
+    <img class="feature-image" src={{ page.feature-img }} alt="Featured Image"/>
+  {% endif %}
+        
         <span>[
   {% for tag in page.tags %}
     {% capture tag_name %}{{ tag }}{% endcapture %}
@@ -25,10 +30,6 @@ layout: default
   {% endfor %}
 ]</span>
       </header>
-      <br>
-      {% if page.feature-img %}
-    <img class="feature-image" src={{ page.feature-img }} alt="Featured Image"/>
-  {% endif %}
       <section class="post__content" itemprop="text">
         {{ content }}
         
