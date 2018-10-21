@@ -5,8 +5,9 @@ description: What is living in Chengdu like? How's the expat life in Chengdu? Mo
 author: Mighil
 type: post
 date: 2018-01-12T10:38:06+00:00
+updated: 2018-10-16T07:45:22+00:00
 url: /expat-life-in-chengdu/
-headerimage: text.png
+headerimage: contact-mighil.jpg
 tags:
   - chengdu-living
 ---
