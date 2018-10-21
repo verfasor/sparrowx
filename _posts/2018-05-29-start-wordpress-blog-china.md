@@ -11,16 +11,14 @@ sitemap:
 tags: website china-blogger
 url: /start-wordpress-blog-china/
 ---
-<img align="center" src="/images/start-wordpress-blog-china.png" alt="How to Start a WordPress Blog in China" width="auto" />
 
+<figure style="width: auto">
+<img src="/images/start-wordpress-blog-china.png" alt="How to Start a WordPress Blog in China">
+</figure> 
 
 A lot of expats in China prefer to share their adventure in China with their friends back at home. Legends say starting a <a href="https://www.quora.com/Is-WordPress-blocked-in-China/answer/Mighil">WordPress blog in China can be painstaking</a>. That's bullshit. All you need is a VPN service to get started.
 
-
-
 <strong>Major Update: Sep 14, 2018</strong>
-
-
 
 CloudWays Singapore servers are performing well in mainland China. Here's <a href="https://www.chengdudigital.com/">an example site</a> based on CloudWays that caters mainland audience. I highly recommend you to check their services to speed up the process. They offer one-click WordPress install as well. <a href="https://mighil.com/start-wordpress-blog-china/#a-vpn">Sign-up with a VPN service</a>, <a href="https://mighil.com/start-wordpress-blog-china/#b-domain-name">buy a domain</a> and visit CloudWays.
 
