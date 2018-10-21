@@ -12,9 +12,6 @@ url: /how-to-setup-shadowsocks-server-on-amazon-ec2/
 tags:
   - shadowsocksr
 ---
-
-## Setup A ShadowsocksR Server On Amazon EC2
-
 <figure style="width: auto">
 <img src="https://mighil.com/wp-content/uploads/2018/05/shadowsocks-amazon-ec2.png" alt="How To Setup A Shadowsocks Server On Amazon EC2">
 </figure> 
