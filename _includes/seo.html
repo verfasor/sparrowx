@@ -51,8 +51,8 @@
   <meta name="twitter:card" content="summary">
   {% if page.og_image %}
     <meta name="twitter:image" content="https://mighil.com/wp-content/uploads/{{ page.headerimage }}">
-  {% elsif site.og_image %}
-    <meta name="twitter:image" content="{{ site.og_image | absolute_url }}">
+  {% else %}
+    <meta property="twitter:image" content="{% if site.og_image contains "://" %}{{ site.og_image }}{% else %}{{ site.og_image | absolute_url }}{% endif %}">
   {% endif %}
   <meta name="twitter:creator" content="@{{ site.twitter.username }}">
 {% endif %}
