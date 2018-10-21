@@ -27,8 +27,8 @@ CloudWays Singapore servers are performing well in mainland China. Here's <a hre
 ## Table of Contents
 
 <ul>
-<li><a href="#life-in-chengdu">Life in Chengdu</a></li>
-<li><a href="#what-is-living-in-chengdu-like">What is living in Chengdu like?</a></li>
+<li><a href="#why-a-self-hosted-wordpress-blog-in-china">Why WordPress</a></li>
+<li><a href="#custom-solution">Custom Solution</a></li>
 <li><a href="#what-is-the-realistic-cost-of-living-in-chengdu-including-rent">What is the realistic cost of living in Chengdu, including rent?</a></li>
 <li><a href="#what-is-the-best-and-easiest-way-to-find-a-house-for-rent-in-chengdu-for-a-foreigner">What is the best and easiest way to find a house for rent in Chengdu for a foreigner?</a></li>
 <li><a href="#best-practices">Best Practices for finding an apartment in Chengdu</a></li>
@@ -47,12 +47,13 @@ CloudWays Singapore servers are performing well in mainland China. Here's <a hre
 <li><a href="#credits">Credits</a></li>
 </ul>
 
-<h2 id="life-in-chengdu">Life in Chengdu</h2>
+<h2 id="why-a-self-hosted-wordpress-blog-in-china">Why Self-hosted WordPress Blog in China?</h2>
 Dedicated hosting can be pricey since they come with one-click tools. A lot of blogging platforms doesn't work well in China as well.
 So, it's wise to host your own WordPress blog. I've prepared this ultimate guide to teach you how to make a self-hosted personal WordPress website in China.
+
 <strong>Note:</strong> This post contains 2 affiliate links and a referral link. Which means I will earn a small commission when you purchase using my links. No extra cost to you.
 
-<h2 id="what-is-living-in-chengdu-like">What is living in Chengdu like?</h2>
+<h2 id="custom-solution">Custom Solution</h2>
 Sit back and relax, I can personally help you start a WordPress blog in China for the price of a coffee.
 
 <h2>Prerequisites:</h2>
