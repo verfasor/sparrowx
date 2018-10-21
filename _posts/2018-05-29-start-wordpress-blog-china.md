@@ -26,12 +26,12 @@ CloudWays Singapore servers are performing well in mainland China. Here's <a hre
 
 <p style="text-align: center;"><a class="button-dark" href="https://mighil.com/go/cloudways">Get Started for FREE (You Can Run Multiple WordPress Also)</a></p>
 
-## Table of Contents	
+**Table of Contents**
 
-* [Why A Self-hosted WordPress Blog in China?](#why-a-self-hosted-wordpress-blog-in-china)
-* [If this guide sounds too much of a tech jargon:](#if-this-guide-sounds-too-much-of-a-tech-jargon)
-* [Prerequisites:](#prerequisites)
-* [a. VPN](#a-vpn)
+* [Why WordPress](#why-a-self-hosted-wordpress-blog-in-china)
+* [Too technical?](#if-this-guide-sounds-too-much-of-a-tech-jargon)
+* Prerequisites:
+* a. VPN
 * b. Domain name
 * c. A Virtual Private Server (VPS) to host your website.
 * d. Putty or Terminal and WinSCP or Cyberduck
@@ -54,25 +54,22 @@ CloudWays Singapore servers are performing well in mainland China. Here's <a hre
 
 Dedicated hosting can be pricey since they come with one-click tools. A lot of blogging platforms doesn't work well in China as well.
 
-
-
 So, it's wise to host your own WordPress blog. I've prepared this ultimate guide to teach you how to make a self-hosted personal WordPress website in China.
-
 
 
 <strong>Note:</strong> This post contains 2 affiliate links and a referral link. Which means I will earn a small commission when you purchase using my links. No extra cost to you.
 
-<h2 id="#if-this-guide-sounds-too-much-of-a-tech-jargon"><b>I</b>f this guide sounds too much of a tech jargon:</h2>
+<h2 id="#if-this-guide-sounds-too-much-of-a-tech-jargon">If this guide sounds too much of a tech jargon</h2>
 
 Sit back and relax, I can personally help you start a WordPress blog in China for the price of a coffee.
 
-<h2 id="#prerequisites">Prerequisites:</h2>
+<h2>Prerequisites:</h2>
 
-<h3 id="#a-vpn">a. VPN</h3>
+<h3>a. VPN</h3>
 
 A VPN is essential. A lot of websites I'm going to mention below doesn't work well in China. Feel free to use my <a href="https://www.linkev.com/?a_aid=mighil">affiliate link</a> in the sidebar to sign-up with Express VPN. Their service is pretty good in China.
 
-<h3 id="#b-domain-name">b. Domain name</h3>
+<h3>b. Domain name</h3>
 
 A domain name is an identification string that defines a realm of administrative autonomy, authority or control within the Internet. You know the drill; go ahead and buy a domain name that reflects your brand name.
 
