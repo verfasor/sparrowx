@@ -28,8 +28,8 @@ CloudWays Singapore servers are performing well in mainland China. Here's <a hre
 
 **Table of Contents**
 
-* [Why WordPress](#why-a-self-hosted-wordpress-blog-in-china)
-* [Too technical?](#if-this-guide-sounds-too-much-of-a-tech-jargon)
+* [Why WordPress](#why-wordpress)
+* [Custom Solution](#custom-solution)
 * Prerequisites:
 * a. VPN
 * b. Domain name
@@ -50,7 +50,7 @@ CloudWays Singapore servers are performing well in mainland China. Here's <a hre
 * Step 3: Create a Database for WordPress
 * G. Download And Install WordPress
 
-<h2 id="#why-a-self-hosted-wordpress-blog-in-china">Why A Self-hosted Wordpress Blog in China?</h2>
+<h2 id="#why-wordpress">Why WordPress</h2>
 
 Dedicated hosting can be pricey since they come with one-click tools. A lot of blogging platforms doesn't work well in China as well.
 
@@ -59,7 +59,7 @@ So, it's wise to host your own WordPress blog. I've prepared this ultimate guide
 
 <strong>Note:</strong> This post contains 2 affiliate links and a referral link. Which means I will earn a small commission when you purchase using my links. No extra cost to you.
 
-<h2 id="#if-this-guide-sounds-too-much-of-a-tech-jargon">If this guide sounds too much of a tech jargon</h2>
+<h2 id="#custom-solution">Custom Solution</h2>
 
 Sit back and relax, I can personally help you start a WordPress blog in China for the price of a coffee.
 
