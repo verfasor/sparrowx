@@ -19,6 +19,8 @@ collections:
       - {label: "SEO Title", name: "seotitle", widget: "string"}
       - {label: "Author", name: "author", widget: "string"}
       - {label: "Description", name: "description", widget: "string", required: false}
+      - {label: "OG Image", name: "headerimage", widget: "string", required: false}
+      - {label: "Updated Date", name: "updated", widget: "string", required: false}
       - {label: "Body", name: "body", widget: "markdown", required: false}
       - {label: "Tags", name: "tags", widget: "string"}
       - {label: "URL", name: "url", widget: "string"}
