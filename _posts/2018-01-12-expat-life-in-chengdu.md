@@ -6,7 +6,7 @@ author: Mighil
 type: post
 date: 2018-01-12T10:38:06+00:00
 url: /expat-life-in-chengdu/
-headerimage: text
+headerimage: text.png
 tags:
   - chengdu-living
 ---
