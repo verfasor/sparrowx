@@ -57,8 +57,11 @@
   <meta name="twitter:creator" content="@{{ site.twitter.username }}">
 {% endif %}
 
-{% if page.og_image %}
- <meta property="og:image" content="https://i1.wp.com/www.justcharlie.com/wp-content/uploads/2015/04/Morning-Bar.jpg">
+{% if page.headerimage %}
+  <meta property="og:image" content="/wp-content/uploads/{{ page.headerimage }}">
+  <meta property="og:image:alt" content="{{ page.seotitle }}" />
+{% else %}
+  <meta content="/assets/images/mighil.png" property="og:image">
 {% endif %}
 
 {% if page.date %}
