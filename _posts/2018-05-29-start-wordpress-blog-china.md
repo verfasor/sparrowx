@@ -58,13 +58,13 @@ So, it's wise to host your own WordPress blog. I've prepared this ultimate guide
 <h2 id="custom-solution">Custom Solution</h2>
 Sit back and relax, I can personally help you start a WordPress blog in China for the price of a coffee.
 
-<h2>Prerequisites:</h2>
+<h2 id="prerequisites">Prerequisites:</h2>
 
-<h3>a. VPN</h3>
+<h3 id="a-vpn">a. VPN</h3>
 
 A VPN is essential. A lot of websites I'm going to mention below doesn't work well in China. Feel free to use my <a href="https://www.linkev.com/?a_aid=mighil">affiliate link</a> in the sidebar to sign-up with Express VPN. Their service is pretty good in China.
 
-<h3>b. Domain name</h3>
+<h3 id="b-domain-name">b. Domain name</h3>
 
 A domain name is an identification string that defines a realm of administrative autonomy, authority or control within the Internet. You know the drill; go ahead and buy a domain name that reflects your brand name.
 
@@ -72,7 +72,7 @@ A domain name is an identification string that defines a realm of administrative
 
 I prefer NameCheap over Gandi.net since it has got a faster interface. Go ahead and use <a href="https://namecheap.pxf.io/c/1155193/386170/5618">my affiliate link</a> (starts from 0.88USD/year) if you prefer to register a domain using namecheap.com.
 
-<h3>c. A Virtual Private Server (VPS) to host your website.</h3>
+<h3 id="c-a-virtual-private-server-vps-to-host-your-website">c. A Virtual Private Server (VPS) to host your website.</h3>
 
 A Virtual Private Server (VPS) is a virtual machine sold as a service by an Internet hosting service. Many companies including Aliyun in China offer virtual private server hosting or virtual dedicated server hosting as an extension for web hosting services.
 
@@ -84,13 +84,13 @@ There are several challenges to consider when licensing proprietary software in 
 
 Services like Hostgator comes with one-click options, but you've got to pay the price for the same. So, we'll be self-managing a DigitalOcean droplet (VPS) based on Ubuntu or CentOS.
 
-<h4>Why DigitalOcean?</h4>
+**Why DigitalOcean?**
 
 Even though, DigitalOcean is not for everybody. As a beginner, it's something I'd recommend. You can learn a lot more about VPS in general when you start from scratch without anyone's help. Feel free to join DigitalOcean using <a href="https://m.do.co/c/fe21fc640198">my referral link</a>.
 
-<h3>d. Putty or Terminal and WinSCP or Cyberduck</h3>
+<h3 id="d-putty-or-terminal-and-winscp-or-cyberduck">d. Putty or Terminal and WinSCP or Cyberduck</h3>
 
-<h4>Putty or Terminal</h4>
+**Putty or Terminal**
 
 You'd need an SSH client to login to your VPS.
 
@@ -98,7 +98,7 @@ You'd need an SSH client to login to your VPS.
 
 PuTTY is an SSH and telnet client, developed originally by Simon Tatham for the Windows platform. Use Terminal if you're using a Mac.
 
-<h4>WinSCP or Cyberduck</h4>
+**WinSCP or Cyberduck**
 
 Not everyone is a Linux savvy. As a beginner, you won't be flexible with using Linux commands to move/copy and edit files. Hence you'd need an SFTP/FTP client to view, edit and manage the data on your server.
 
@@ -110,7 +110,7 @@ WinSCP is a free and open-source SFTP, FTP, WebDAV, Amazon S3 and SCP client for
 
 I suggest Cyberduck for Mac users since I use it often. You have other options like FileZilla for Windows and Transmit for Mac. Use any SFTP software you're comfortable with.
 
-<h3>e. Others</h3>
+<h3 id="e-others">e. Others</h3>
 
 <ol>
 
@@ -122,7 +122,7 @@ I suggest Cyberduck for Mac users since I use it often. You have other options l
 
 I hope you've got a basic idea now. Fire up ExpressVPN, let's <strong>start a WordPress blog in China</strong>.
 
-<h2>A. Buy A Domain</h2>
+<h2 id="a-buy-a-domain">A. Buy A Domain</h2>
 
 Purchasing a domain on NameCheap is pretty much straight-forward. <a href="https://namecheap.pxf.io/c/1155193/386170/5618">Sign-up</a>, search for a domain name of your choice, add it to the cart and make payment. After the purchase, <a href="https://ap.www.namecheap.com/domains/list">visit this URL</a> and click "manage".
 
@@ -152,7 +152,7 @@ Once you click "manage", you'll see something like this.
 
 Keep the browser window idle and proceed to the next step.
 
-<h2>B. Add Site to Cloudflare</h2>
+<h2 id="b-add-site-to-cloudflare">B. Add Site to Cloudflare</h2>
 
 Visit cloudflare.com and log in to your account. Visit this URL or click "+ Add Site" located in the upper right corner.
 
@@ -208,7 +208,7 @@ Visit the idle window I mentioned at the end of step 1. Select the "Custom DNS" 
 
 Switch the active window to the Cloudflare setup and click "Continue." Give it a few minutes for the DNS propagation. The Cloudflare status will be "Active" after DNS propagation.
 
-<h2>C. Create A DigitalOcean Droplet</h2>
+<h2 id="c-create-a-digitalocean-droplet">C. Create A DigitalOcean Droplet</h2>
 
 DigitalOcean calls its cloud servers Droplets; each Droplet you create is a new server for your personal use.
 
@@ -244,7 +244,7 @@ DigitalOcean VPS pricing starts from 5USD per month. Choose an ideal server for 
 
 Go ahead and select the 5USD server if you are setting up a personal website aiming less than 10k users per month.
 
-<h3>Note:</h3>
+<h3 id="note">Note:</h3>
 
 <ol>
 
@@ -258,9 +258,9 @@ Go ahead and select the 5USD server if you are setting up a personal website aim
 
 Click "create" if everything looks ok for you. DigitalOcean will generate Public IP, one-time root password and send it over to your registered email address.
 
-<h2>D. Install VestaCP On CentOS</h2>
+<h2 id="d-install-vestacp-on-centos">D. Install VestaCP On CentOS</h2>
 
-<h3>Step 1: Login to your server as root</h3>
+<h3 id="step-1-login-to-your-server-as-root">Step 1: Login to your server as root</h3>
 
 Use the credentials DigitalOcean sent you over email to log in.
 
@@ -280,7 +280,7 @@ In case you are using a Mac, open Terminal, type the following and hit enter:
 
 After logging in for the first time, DigitalOcean's Linux distro will force you to change the password. Just do it.
 
-<h3>Step2:  Install Vesta CP</h3>
+<h3 id="step2-install-vesta-cp">Step2:  Install Vesta CP</h3>
 
 Download installation script
 
@@ -304,7 +304,7 @@ Use something like <strong>cp.domainname.tld. </strong>
 
 VestaCP roughly needs 5 to 10 minutes to finish the installation.  It will display the login URL and admin credentials upon completing the installation.
 
-<h2>E. Configure DNS</h2>
+<h2 id="e-configure-dns">E. Configure DNS</h2>
 
 Visit the DNS section of your website in Cloudflare.com.
 
@@ -332,9 +332,9 @@ Make sure it looks like this after editing.
 
 <img class="size-full wp-image-2956 aligncenter" src="https://mighil.com/wp-content/uploads/2018/05/dns-records.jpg" alt="Cloudflare DNS" width="989" height="770" />
 
-<h2>F. Add New Website on VestaCP</h2>
+<h2 id="f-add-new-website-on-vestacp">F. Add New Website on VestaCP</h2>
 
-<h3>Step 1: Visit the VestaCP login URL.</h3>
+<h3 id="#step-1-visit-the-vestacp-login-url">Step 1: Visit the VestaCP login URL.</h3>
 
 It may look like <strong>https://67.218.xxx.xx:8083</strong>
 
@@ -346,7 +346,7 @@ Log in using the credentials you saved before. Change the admin password after l
 
 Feel free to tweak other settings according to your preference.
 
-<h3>Step 2: Add a website</h3>
+<h3 id="#step-2-add-a-website">Step 2: Add a website</h3>
 
 Visit the WEB section in the VestaCP and click the "<strong>ADD WEB DOMAIN</strong>" button.
 
@@ -366,7 +366,7 @@ Fill in the domainname.tld (eg: mynewsite.com) and select the default IP address
 
 Wait for few seconds and visit domainname.tld. You'd see a dummy home page generated by VestaCP.
 
-<h3>Step 3: Create a Database for WordPress</h3>
+<h3 id="#step-3-create-a-database-for-wordpress">Step 3: Create a Database for WordPress</h3>
 
 VestaCP has installed default software stacks required for WordPress.
 
@@ -390,7 +390,7 @@ To do this, visit the DB section of your VestaCP. Click "Add DB and fill in the 
 
 Click "Add" when you're ready. Save the database details somewhere safe.
 
-<h2>G. Download And Install WordPress</h2>
+<h2 id="#g-download-and-install-wordpress">G. Download And Install WordPress</h2>
 
 Oh boy! we're almost there. Let's install WordPress already!
 
