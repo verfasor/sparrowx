@@ -1,10 +1,13 @@
 ---
 seotitle: How To Setup A Shadowsocks Server On Amazon EC2 - Mighil
-title: How To Setup A Shadowsocks Server On Amazon EC2 
+title: Setup Shadowsocks Server On Amazon EC2 
 description: Step by step instructions to set up your own speed-optimized Shadowsocks server on Amazon EC2. Write to webmaster[at]mighil.com or connect with me on WeChat if you want me set it up for you for a small fee.
 author: Mighil
 type: post
 date: 2016-12-08T05:42:38+00:00
+updated: 2018-10-16T07:45:22+00:00
+sitemap:
+  lastmod: 2018-10-16T07:45:22+00:00
 url: /how-to-setup-shadowsocks-server-on-amazon-ec2/
 tags:
   - shadowsocksr
