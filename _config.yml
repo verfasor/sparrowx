@@ -9,8 +9,8 @@ avatar                   : ""
 url                      : "https://deadauthor.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog" leave blank if no subpath
 
-publish_mode: editorial_workflow
-future: true
+publish_mode: editorial_workflow # required for Netlify
+future: true # if the post's date is in the future
 
 # Site Author
 author:
