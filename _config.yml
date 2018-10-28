@@ -10,6 +10,7 @@ url                      : "https://deadauthor.org" # the base hostname & protoc
 baseurl                  : "" # the subpath of your site, e.g. "/blog" leave blank if no subpath
 
 publish_mode: editorial_workflow
+future: true
 
 # Site Author
 author:
