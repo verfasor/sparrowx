@@ -6,7 +6,7 @@ author: Mighil
 description: >-
   Get SparrowX, a minimal, clean, SEO-ready Jekyll theme. Compatible with
   NetlifyCMS.
-headerimage: /mighil.png
+headerimage: mighil.png
 updated: 10-28-2018
 tags: sparrowx
 url: /sparrowx-minimal-jekyll-theme
