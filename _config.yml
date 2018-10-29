@@ -16,7 +16,7 @@ author:
 
 comments                 : true # set it to false to disable comments
 disqus:
-  shortname              : deadauthor # sparrow-theme # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+  shortname              : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
 
 atom_feed:
   path                   : # blank (default) uses feed.xml
