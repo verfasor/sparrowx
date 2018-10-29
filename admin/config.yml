@@ -20,7 +20,6 @@ collections:
       - {label: "Author", name: "author", widget: "string"}
       - {label: "Description", name: "description", widget: "string", required: false}
       - {label: "OG Image", name: "headerimage", widget: "string", required: false}
-      - {label: "Featured Image", name: "feature-img", widget: "string", required: false}
       - {label: "Updated Date", name: "updated", widget: "string", required: false}
       - {label: "Body", name: "body", widget: "markdown", required: false}
       - {label: "Tags", name: "tags", widget: "string"}
@@ -39,11 +38,3 @@ collections:
       - {label: "URL", name: "url", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown", required: false}
 
-  - name: "layouts"
-    label: "Layouts"
-    folder: "_layouts"
-    extension: "html"
-    fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
-      - {label: "Title", name: "title", widget: "string", required: false}
-      - {label: "Body", name: "body", widget: "markdown", required: false}
