@@ -1,6 +1,4 @@
 # Redirect default Netlify subdomain to primary domain
 https://affectionate-davinci-ac980c.netlify.com/* https://jekyll.deadauthor.org/:splat 301!
 http://affectionate-davinci-ac980c.netlify.com//* https://jekyll.deadauthor.org/:splat 301!
-/talk https://calendly.com/orza/
-/go/socketpro https://www.socketpro.link/aff/40149
-/life-in-chengdu /expat-life-in-chengdu
+/mighil https://mighil.com
