@@ -25,7 +25,7 @@
 
 .page__item-title {
   margin-bottom: 0.25em;
-  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: $global-font-family;
   a {
     /* border-bottom: solid 1.5px $theme-color; 
     color: $entry-link-color; */
@@ -40,7 +40,7 @@
   font-size: 1.7em;
   margin-bottom: 0;
   color: $theme-color;
-  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: $global-font-family;
 
   & + .page__meta {
     margin-top: -0.5em;
