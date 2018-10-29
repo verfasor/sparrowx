@@ -1,13 +1,13 @@
 # coding: utf-8
  
 Gem::Specification.new do |spec|
-  spec.name          = "sparrow-jekyll-theme"
+  spec.name          = "sparrowx-jekyll-theme"
   spec.version       = "0.1.1"
-  spec.authors       = ["Lingyi Hu"]
-  spec.email         = ["lingyihuu@gmail.com"]
+  spec.authors       = ["Mighil Puthukkudy"]
+  spec.email         = ["webmaster@mighil.com"]
  
-  spec.summary       = %q{A clean and minimal theme for writers.}
-  spec.homepage      = "https://github.com/lingxz/sparrow"
+  spec.summary       = %q{SEO optimized, clean and minimal Jekyll theme. One-click NetlifyCMS setup.}
+  spec.homepage      = "https://github.com/mighildotcom/sparrowx"
   spec.license       = "MIT"
  
   spec.metadata["plugin_type"] = "theme"
