@@ -7,7 +7,7 @@ description: Built on top of Sparro by lingxz, SparrowX is a clean and minimal f
 
 Hi, I’m [@sparrow's](https://github.com/lingxz/sparrow) brother and my author made me compatible with NetlifyCMS. I am particularly great for a SEO-focused writer’s blog or personal webpage. I'm very SEO-friendly and my peformance grade is 94 on tools.pingdom.com.
 
-This is a demo. You can find the source code and documentation [here.](https://github.com/mighildotcom/sparrowx)
+This is a demo. You can find the source code on [GitHub](https://github.com/mighildotcom/sparrowx) and documentation is available [here.](/documentation)
 
 ## Latest from the blog
 
