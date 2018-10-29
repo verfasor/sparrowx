@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "About •"
-    url: /about
-  - title: "Hire •"
-    url: /inbound-marketing-agency-india
+  - title: "Documentation •"
+    url: /documentation
+  - title: "Netlify CMS •"
+    url: /netlify-cms-jekyll-setup
   - title: "Blog •"
     url: /blog    
   - title: "Sitemap"
