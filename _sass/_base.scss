@@ -55,7 +55,7 @@ body {
   margin: 0;
   padding: 0;
   color: $text-color;
-  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: $global-font-family;
   line-height: 1.7;
   color: $text-color;
   border-top: 3px solid $theme-color;
@@ -69,7 +69,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   margin: 1em 0 0.5em;
   line-height: 1.2;
-  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: $global-font-family;
   font-weight: 600;
 }
 
@@ -146,7 +146,7 @@ blockquote {
 }
 
 blockquote:before {
-  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: $global-font-family;
   font-style: italic;
   display: block;
   content: "\201C";
@@ -311,7 +311,7 @@ figure {
 figcaption {
   margin-bottom: 0.5em;
   color: mix(#fff, $text-color, 25%);
-  font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  font-family: $global-font-family;
   font-size: $type-size-6;
 
   a {
@@ -389,5 +389,5 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
 }
 
 input, textarea, input[type="submit"] {
-  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: $global-font-family;
 }
