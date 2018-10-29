@@ -6,13 +6,12 @@
    Typography
    ========================================================================== */
 
-$heebo                      : Heebo, "Hiragino Sans GB", "WenQuanYi Micro Hei", "Microsoft YaHei Light", sans-serif;
-$gochi-hand                 : Gochi Hand, "Hiragino Sans GB", "WenQuanYi Micro Hei", "Microsoft YaHei", sans-serif;
+$system                     : -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 
-$global-font-family         : $heebo !default;
-$header-font-family         : $heebo !default;
-$fancy-font-family          : $gochi-hand !default;
-$caption-font-family        : $heebo !default;
+$global-font-family         : $system !default;
+$header-font-family         : $system !default;
+$fancy-font-family          : $system !default;
+$caption-font-family        : $system !default;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace !default;
 
 /* type scale */
