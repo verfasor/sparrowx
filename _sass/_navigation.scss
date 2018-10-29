@@ -154,10 +154,10 @@
 }
 
 .topnav__avatar {
-  /* display: table-cell;
+  display: table-cell;
   vertical-align: top;
   width: 7em;
-  height: 7em; */
+  height: 7em; 
   
   @include breakpoint(max-width $small) {
     @include full();
