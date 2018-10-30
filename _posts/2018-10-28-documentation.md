@@ -5,6 +5,8 @@ seotitle: SparroX - Best Minimal Jeykll Theme Documentation and Download
 author: Mighil
 description: Read the documenation for SparrowX minimal and clean Jekll theme. 
 url: /documentation/
+tags:
+  - documentation
 ---
 
 ## Documentation
