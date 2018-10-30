@@ -14,6 +14,13 @@ This is a demo. You can find the source code on [GitHub](https://github.com/migh
 - Based theme sparrow by [lingxz](https://github.com/lingxz/sparrow)
 - Icon made by [Freepik](https://www.freepik.com/) from www.flaticon.com 
 
+**Donation**
+
+I'm a freelancer and its not sunshine and rainbows all the time.
+So if this project help you reduce time to develop, you can buy me a cup of coffee :) 
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/Mighil)
+
 ## Latest from the blog
 
 
