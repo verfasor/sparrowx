@@ -7,8 +7,8 @@ A clean minimal Jekyll theme for SEO-focused writers. The theme loads fast and i
 [Live Demo](https://sparrowx.mighil.com/)
 
 - [Features](#features)
-- [Why the name?](#why-the-name) 
 - [Install](#install)
+- [Up and running with Netlify CMS](#up-and-running-with-netlify-cms)
     - [General configuration](#general-configuration)
     - [Disqus](#disqus)
     - [Google analytics](#google-analytics)
