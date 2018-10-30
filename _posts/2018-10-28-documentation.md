@@ -1,4 +1,5 @@
 ---
+title: How To Use This Theme
 type: page
 seotitle: SparroX - Best Minimal Jeykll Theme Documentation and Download
 author: Mighil
