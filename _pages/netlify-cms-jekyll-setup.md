@@ -3,7 +3,7 @@ type: page
 seotitle: How to Add Netlify CMS to A Jekyll Site - SparrowX Documentation
 author: Mighil
 description: Learn how to add Netlify CMS to a Jekyll site. This tutorial is based on SparrowX theme.
-permalink: /netlify-cms-jekyll-setup/
+permalink: /netlify-cms-jekyll-setup2/
 ---
 
 ## Getting Started
