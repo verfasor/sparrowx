@@ -1,10 +1,10 @@
 ---
 title: How To Use This Theme
-type: page
+type: post
 seotitle: SparroX - Best Minimal Jeykll Theme Documentation and Download
 author: Mighil
 description: Read the documenation for SparrowX minimal and clean Jekll theme. 
-permalink: /documentation/
+url: /documentation/
 ---
 
 ## Documentation
