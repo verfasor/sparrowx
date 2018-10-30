@@ -21,7 +21,11 @@ A clean minimal Jekyll theme for SEO-focused writers. The theme loads fast and i
 
 ![](screenshot.png)
 
-## Sparrow Features
+## Website Speed Test 
+
+![](pagespeed.png)
+
+## Original Sparrow Features
 
 - Fully compatible with Github Pages
 - Configurable and responsive multi layer menu, adapted from [slimmenu](https://github.com/adnantopal/slimmenu)
