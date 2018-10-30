@@ -15,7 +15,7 @@ Here's the basic documentation for SparrowX. [Visit this page](/netlify-cms-jeky
 
 ## Install
 
-Just fork this repo and replace the posts with your own. Also rename the sample poetry collection to replace it with your own collection, or just delete it if you don't need to use collections. The example is poetry, but you can easily revamp this into essays, short stories, portfolio, or whatever your creative work is. 
+Just [fork this repo](https://github.com/mighildotcom/sparrowx/fork) and replace the posts with your own. Also rename the sample poetry collection to replace it with your own collection, or just delete it if you don't need to use collections. The example is poetry, but you can easily revamp this into essays, short stories, portfolio, or whatever your creative work is. 
 
 ### General configuration
 
