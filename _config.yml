@@ -31,7 +31,7 @@ twitter:
 # Analytics
 analytics:
   google:
-    tracking_id          : # add your google tracking id here
+    tracking_id          : UA-128372009-1 # add your google tracking id here
 
 # Reading Files
 include:
