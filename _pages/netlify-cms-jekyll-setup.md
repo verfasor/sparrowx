@@ -99,7 +99,11 @@ Now we need to add a small “Identity Widget” script to the admin page and ma
 
 * Insert before: select </head>
 * Script name: Netlify Identity Widget
-* HTML: ```<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>```
+* HTML: 
+
+```
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+```
 
 ### Add The Netlify Identity Widget Redirect
 
