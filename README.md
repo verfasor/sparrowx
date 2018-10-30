@@ -38,7 +38,7 @@ A clean minimal Jekyll theme for SEO-focused writers. The theme loads fast and i
 ## SparrowX Features
 
 -  Fully compatible with Netlify CMS (one-click setup).
--  Added new custom variables like updated, headerimage, featured_image, sitemap and tag.
+-  Added new custom variables like updated, headerimage, feature-img, sitemap and tag.
 -  The theme renders system font-stack.
 -  Compressed JS.
 -  Improved load time and reduced file requests.
