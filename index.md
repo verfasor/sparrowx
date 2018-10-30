@@ -9,6 +9,11 @@ Hi, I’m [@sparrow's](https://github.com/lingxz/sparrow) brother and my author 
 
 This is a demo. You can find the source code on [GitHub](https://github.com/mighildotcom/sparrowx) and the documentation is available [on this page.](/documentation)
 
+**Credits**
+
+- Based theme sparrow by [lingxz](https://github.com/lingxz/sparrow)
+- Icon made by [Freepik](https://www.freepik.com/) from www.flaticon.com 
+
 ## Latest from the blog
 
 
