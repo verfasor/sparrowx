@@ -150,6 +150,10 @@ defaults:
       share: false
 ```
 
+### How tags work
+
+You should create specific .md files within ```/tag/``` before using the variable.
+
 ### Other
 
 To enhance SEO, you can add your twitter username to `_config.yml`. 
