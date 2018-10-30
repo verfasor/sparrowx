@@ -5,15 +5,11 @@ main:
   - title: "Netlify CMS"
     url: /netlify-cms-jekyll-setup
   - title: "Blog"
-    url: /blog    
-  - title: "Sitemap"
-    url: /sitemap.xml
-  - title: "RSS"
-    url: /feed.xml    
+    url: /blog        
   - title: "Submenu"
     url: /
     children: 
-      - title: "item 1"
-        url: /404
-      - title: "item 2"
-        url: /404
+      - title: "Sitemap"
+        url: /sitemap.xml
+      - title: "RSS"
+        url: /feed.xml   
