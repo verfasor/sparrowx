@@ -51,7 +51,7 @@ Just fork this repo and replace the posts with your own. Also rename the sample 
 
 ## Up and running with Netlify CMS
 
-[Click here](/netlify-cms-jekyll-setup) to read the documentation for Netlify CMS.
+[Click here](https://sparrowx.mighil.com/netlify-cms-jekyll-setup) to read the documentation for Netlify CMS.
 
 For customization, see below. 
 
