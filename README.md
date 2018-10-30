@@ -165,3 +165,4 @@ The color schemes and fonts can also be customized through scss, by editing the 
 ## Credits
 
 - Based theme sparrow by [lingxz](https://github.com/lingxz/sparrow)
+- Icon made by [Freepik](https://www.freepik.com/) from www.flaticon.com 
