@@ -11,7 +11,7 @@ tags:
 
 ## Documentation
 
-Here's the basic documentation for SparrowX. [Visit this page](/netlify-cms-jekyll-setup) to read the documenation for Netlify CMS.
+Here's the basic documentation for SparrowX. [Visit this page](/netlify-cms-jekyll-setup) to read the documentation for Netlify CMS.
 
 ## Install
 
