@@ -11,7 +11,7 @@ This is a demo. You can find the source code on [GitHub](https://github.com/migh
 
 **Credits**
 
-- Based theme sparrow by [lingxz](https://github.com/lingxz/sparrow)
+- Base theme sparrow by [lingxz](https://github.com/lingxz/sparrow)
 - Icon made by [Freepik](https://www.freepik.com/) from www.flaticon.com 
 
 **Donation**
