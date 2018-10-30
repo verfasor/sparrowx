@@ -8,3 +8,12 @@ main:
     url: /blog    
   - title: "Sitemap"
     url: /sitemap.xml
+  - title: "RSS"
+    url: /feed.xml    
+  - title: "Submenu"
+    url: /
+    children: 
+      - title: "item 1"
+        url: /404
+      - title: "item 2"
+        url: /404
