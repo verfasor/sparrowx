@@ -1,7 +1,5 @@
 # SparrowX
 
-[![Gem Version](https://badge.fury.io/rb/sparrow-jekyll-theme.svg)](https://badge.fury.io/rb/sparrow-jekyll-theme)
-
 A clean minimal Jekyll theme for SEO-focused writers. The theme loads fast and it's Netlify CMS-ready. SparrowX is a remix of sparrow by [lingxz](https://github.com/lingxz/sparrow)
 
 [Live Demo](https://sparrowx.mighil.com/)
@@ -50,27 +48,12 @@ A clean minimal Jekyll theme for SEO-focused writers. The theme loads fast and i
 
 Just fork this repo and replace the posts with your own. Also rename the sample poetry collection to replace it with your own collection, or just delete it if you don't need to use collections. The example is poetry, but you can easily revamp this into essays, short stories, portfolio, or whatever your creative work is. 
 
-OR you can also install this theme as a theme gem. To do that, add to your Gemfile: 
-
-```ruby
-gem "sparrow-jekyll-theme"
-```
-
-And add this line site's `_config.yml`: 
-
-```yaml
-theme: sparrow-jekyll-theme
-```
-
-And then do `bundle install`. 
-
-To run your site locally, do `bundle exec jekyll serve`. 
-
-For customization, see below. 
 
 ## Up and running with Netlify CMS
 
 [Click here](/netlify-cms-jekyll-setup) to read the documentation for Netlify CMS.
+
+For customization, see below. 
 
 ### General configuration
 
@@ -78,9 +61,8 @@ Customize these values in the `_config.yml` file:
 
 ```yaml
 title                    : "SparrowX"
-title_separator          : "-"
 description              : "A clean minimal Jekyll theme for SEO-focused writers."
-favicon                  : "/assets/images/bird.png" # You can use base64 encoded images.
+favicon                  : "/assets/images/image.png" # You can use base64 encoded images.
 url                      : "https://sparrowx.mighil.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog" leave blank if no subpath
 
