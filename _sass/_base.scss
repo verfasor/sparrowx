@@ -19,6 +19,11 @@ p>code, a>code, li>code, figcaption>code, td>code {
     font-size: 0.8em;
 }
 
+div.highlighter-rouge .highlight, figure.highlight .highlight {
+    margin: 0;
+    padding: .2em;
+    font-size: 0.8rem;
+}
 
 /* #mastheadbackground {
     height: 155px;
