@@ -36,7 +36,6 @@ A clean minimal Jekyll theme for SEO-focused writers. The theme loads fast and i
 - Google analytics
 - Social sharing using [rrssb](https://www.rrssb.ml/)
 - 404 page included
-- Typographic optimization for Chinese fonts
 - Atom feed generated with [jekyll-feed](https://github.com/jekyll/jekyll-feed)
 - Pagination enabled for blog using [jekyll-paginate](https://github.com/jekyll/jekyll-paginate)
 - Basic SEO with Facebook Open Graph tags and Twitter cards
