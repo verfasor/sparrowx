@@ -1,6 +1,6 @@
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/Mighil)
 
-# SparrowX
+# SparrowX - Jekyll Netlify Boilerplate
 
 A clean minimal Jekyll theme for SEO-focused writers. The theme loads fast and it's Netlify CMS-ready. SparrowX is a remix of sparrow by [lingxz](https://github.com/lingxz/sparrow).
 
