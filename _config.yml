@@ -83,7 +83,7 @@ collections:
     permalink: /:collection/:title/
 
 # Plugins
-plugins:
+gems:
   - jekyll-paginate
   - jekyll-feed
 
