@@ -26,7 +26,7 @@ og_image                 : "/assets/images/mighil.png" # Open Graph/Twitter defa
 
 # Social sharing
 twitter:
-  username               : mighildotcom # optional, for social sharing
+  username               : mighilcom # optional, for social sharing
 
 # Analytics
 analytics:
