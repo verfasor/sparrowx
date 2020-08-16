@@ -68,7 +68,7 @@ Customize these values in the `_config.yml` file:
 title                    : "SparrowX"
 description              : "A clean minimal Jekyll theme for SEO-focused writers."
 favicon                  : "/assets/images/image.png" # You can use base64 encoded images.
-url                      : "https://sparrowx.mighil.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://sparrowx.m1q.net" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog" leave blank if no subpath
 
 # Site Author
