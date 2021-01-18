@@ -12,7 +12,7 @@ tags:
 ## Getting Started
 
 * Create a Netlify account if you don't have one.
-* [Fork SparrowX](https://github.com/mighildotcom/sparrowx/). (No need enable GitHub pages since we'll be using Netlify CMS to fetch, build the repo and point the domain.)
+* [Fork SparrowX](https://github.com/migftw/sparrowx/). (No need enable GitHub pages since we'll be using Netlify CMS to fetch, build the repo and point the domain.)
 * Visit https://app.netlify.com/ and click **"New site from Git"**
 
 ## Netlify deploy settings for SparrowX
