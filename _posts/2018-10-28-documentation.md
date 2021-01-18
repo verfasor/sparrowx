@@ -15,7 +15,7 @@ Here's the basic documentation for SparrowX. [Visit this page](/netlify-cms-jeky
 
 ## Install
 
-Just [fork this repo](https://github.com/mighildotcom/sparrowx/fork) and replace the posts with your own. Also rename the sample poetry collection to replace it with your own collection, or just delete it if you don't need to use collections. The example is poetry, but you can easily revamp this into essays, short stories, portfolio, or whatever your creative work is. 
+Just [fork this repo](https://github.com/migftw/sparrowx/fork) and replace the posts with your own. Also rename the sample poetry collection to replace it with your own collection, or just delete it if you don't need to use collections. The example is poetry, but you can easily revamp this into essays, short stories, portfolio, or whatever your creative work is. 
 
 ### General configuration
 
@@ -25,7 +25,7 @@ Customize these values in the `_config.yml` file:
 title                    : "SparrowX"
 description              : "A clean minimal Jekyll theme for SEO-focused writers."
 favicon                  : "/assets/images/image.png" # You can use base64 encoded images.
-url                      : "https://sparrowx.mighil.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://sparrowx.netlify.app" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog" leave blank if no subpath
 
 # Site Author
@@ -124,6 +124,6 @@ You can also add an image path for the `og_image` value in the config file, for 
 
 Your default image Netlify CMS uploads will go to /images/.
 
-For the various config options see the [sample config file for the demo site](https://github.com/mighildotcom/sparrowx/blob/master/_config.yml)
+For the various config options see the [sample config file for the demo site](https://github.com/migftw/sparrowx/blob/master/_config.yml)
 
 The color schemes and fonts can also be customized through scss, by editing the relevant variable in `_variables.scss`. 
