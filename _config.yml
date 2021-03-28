@@ -13,7 +13,7 @@ future: true # if the post's date is in the future
 
 # Site Author
 author:
-  name                   : "Mighil" # appears in the footer and atom feed
+  name                   : "VerFasor" # appears in the footer and atom feed
 
 comments                 : true # set it to false to disable comments
 disqus:
@@ -26,7 +26,7 @@ og_image                 : "/assets/images/mighil.png" # Open Graph/Twitter defa
 
 # Social sharing
 twitter:
-  username               : migftw # optional, for social sharing
+  username               : verfasor # optional, for social sharing
 
 # Analytics
 analytics:
