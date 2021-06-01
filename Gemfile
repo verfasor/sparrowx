@@ -1,5 +1,5 @@
 source "https://rubygems.org"
 gemspec	
 gem "jekyll", "~> 4.0"
-gem "bundler", "~> 2.1.4"
+gem "bundler", "~> 2.0.1"
 gem "kramdown-parser-gfm"
