@@ -4,7 +4,7 @@
 
 A clean minimal Jekyll theme for SEO-focused writers. The theme loads fast and it's Netlify CMS-ready. SparrowX is a remix of sparrow by [lingxz](https://github.com/lingxz/sparrow).
 
-[Live Demo](https://sparrowx.mighil.com/)
+[Live Demo](https://sparrowx.netlify.app)
 
 - [Features](#features)
 - [Install](#install)
@@ -56,7 +56,7 @@ Just fork this repo and replace the posts with your own. Also rename the sample 
 
 ## Up and running with Netlify CMS
 
-[Click here](https://sparrowx.mighil.com/netlify-cms-jekyll-setup) to read the documentation for Netlify CMS.
+[Click here](https://sparrowx.netlify.app/netlify-cms-jekyll-setup) to read the documentation for Netlify CMS.
 
 For customization, see below. 
 
