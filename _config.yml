@@ -13,7 +13,7 @@ future: true # if the post's date is in the future
 
 # Site Author
 author:
-  name                   : "VerFasor" # appears in the footer and atom feed
+  name                   : "mighil.com" # appears in the footer and atom feed
 
 comments                 : true # set it to false to disable comments
 disqus:
