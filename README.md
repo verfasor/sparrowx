@@ -1,4 +1,6 @@
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/Mighil)
+<img src="https://img.shields.io/liberapay/receives/verfasor.svg?logo=liberapay">
+
+**NOTE: The netlify demo is broken as I don't use the service anymore. The repo should work OOB nonetheless. Please create an issue if it isn't working as intended.**
 
 # SparrowX - Jekyll Netlify CMS Boilerplate
 
